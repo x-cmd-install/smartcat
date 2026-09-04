@@ -7,7 +7,7 @@ about:
   head: 30d992f
   archived: false
   latestVersion: 2.2.0
-  collectedAt: 2026-09-04T19:29:47Z
+  collectedAt: 2026-09-04T21:02:55Z
 timeline:
   created: 2023-11-06
   lastCommit: 2025-02-23
@@ -80,5 +80,28 @@ total:
   openIssue: 11
   commit: 164
 ---
+path: /home/runner/.x-repo/github.com/efugier/smartcat
+collectedAt: 2026-09-04T21:02:56Z
+loc:
+  Rust:
+    code: 1268
+    comments: 47
+    blanks: 217
+    files: 11
+  Toml:
+    code: 52
+    comments: 1
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 222
+    blanks: 105
+    files: 2
+total:
+  code: 1394
+  comments: 293
+  blanks: 334
+  files: 14
 ---
 
