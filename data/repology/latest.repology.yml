@@ -1,0 +1,110 @@
+- repo: parabola
+  subrepo: extra
+  srcname: smartcat
+  binname: smartcat
+  visiblename: smartcat
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: newest
+  summary: Putting a brain behind cat
+  licenses:
+    - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: smartcat
+  binname: smartcat
+  visiblename: smartcat
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: newest
+  summary: Putting a brain behind cat
+  licenses:
+    - Apache-2.0
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: smartcat
+  binname: smartcat
+  visiblename: smartcat
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: newest
+  summary: Putting a brain behind cat
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: smartcat
+  binname: smartcat
+  visiblename: smartcat
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: newest
+  summary: Putting a brain behind cat
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: smartcat
+  binname: smartcat
+  visiblename: smartcat
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: newest
+  summary: Putting a brain behind cat
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: smartcat
+  visiblename: smartcat
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: Integrate large language models into the command line
+  maintainers:
+    - lpchaim@gmail.comm
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: smartcat
+  visiblename: smartcat
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: Integrate large language models into the command line
+  maintainers:
+    - lpchaim@gmail.comm
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: smartcat
+  visiblename: smartcat
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: Integrate large language models into the command line
+  maintainers:
+    - lpchaim@gmail.comm
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: smartcat
+  visiblename: smartcat
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: Integrate large language models into the command line
+  maintainers:
+    - lpchaim@proton.me
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: smartcat
+  visiblename: smartcat
+  version: 2.2.0
+  origversion: null
+  status: newest
+  summary: Integrate large language models into the command line
+  maintainers:
+    - lpchaim@proton.me
+  licenses:
+    - Apache-2.0
