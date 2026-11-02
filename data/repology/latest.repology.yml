@@ -20,28 +20,6 @@
   summary: Putting a brain behind cat
   licenses:
     - Apache-2.0
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: smartcat
-  binname: smartcat
-  visiblename: smartcat
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: newest
-  summary: Putting a brain behind cat
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: smartcat
-  binname: smartcat
-  visiblename: smartcat
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: newest
-  summary: Putting a brain behind cat
-  licenses:
-    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: smartcat
